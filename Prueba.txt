@@ -1,0 +1,4 @@
+
+PARA CLONARTE EL REPOSITORIO
+
+	git clone direccion del repositorio
